@@ -2,6 +2,7 @@
 layout: archive
 title: "About"
 permalink: /about/
+author_profile: true
 header:
   image: "/images/nyclandscape02.jpg"
 ---

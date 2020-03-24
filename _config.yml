@@ -111,7 +111,7 @@ author:
   avatar           : "/images/Profilepic.jpeg"
   bio              : "Data Science Portfolio"
   location         : "New York City, NY"
-  email            : "david.suffolk@gmail.com"
+  email            : #"david.suffolk@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
