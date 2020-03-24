@@ -108,10 +108,10 @@ analytics:
 # Site Author
 author:
   name             : "David Suffolk"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Profilepic.jpeg"
   bio              : "Data Science Portfolio"
   location         : "New York City, NY"
-  email            :
+  email            : "david.suffolk@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
