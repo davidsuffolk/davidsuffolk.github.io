@@ -1,0 +1,8 @@
+---
+title: "NYC Taxi Cab Data Analysis and Machine Learning"
+date: 2020-04-05
+tags: [machine learning, data science, python, tableau]
+header:
+  image: "/images/yellow_taxi_cab.jpg"
+excerpt: "Machine Learning, Data Science, Python, Tableau"
+---

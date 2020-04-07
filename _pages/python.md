@@ -4,7 +4,7 @@ permalink: /python/
 title: "Python Projects by Tags"
 author_profile: true
 header:
-  image: "/images/nyclandscape03.jpg"
+  image: "/images/python-logo.png"
 ---
 {% include group-by-array collection=site.posts field="tags" %}
 
