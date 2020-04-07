@@ -1,8 +1,8 @@
 ---
-layout: archive
+#layout: archive
 permalink: /python/
 title: "Python Projects by Tags"
-author_profile: true
+#author_profile: true
 header:
   image: "/images/python-logo.png"
 ---
