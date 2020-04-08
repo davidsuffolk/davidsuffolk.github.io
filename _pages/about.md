@@ -8,3 +8,5 @@ header:
 ---
 
 I am completing my Master of Science degree in Data Science in May 2020 with Bellevue University.
+
+{% include gallery caption="Sample Projects" %}
