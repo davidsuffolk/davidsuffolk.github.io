@@ -1,10 +1,10 @@
 ---
 layout: single
-permalink: /python/
-title: "Python Projects by Tags"
+permalink: /project_tags/
+title: "Projects by Tags"
 author_profile: true
 header:
-  image: "/images/python-logo.png"
+  image: "/images/teaser_default.jpg"
 ---
 {% include group-by-array collection=site.posts field="tags" %}
 
