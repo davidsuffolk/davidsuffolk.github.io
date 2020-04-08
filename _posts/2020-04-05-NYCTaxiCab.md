@@ -10,4 +10,4 @@ excerpt: "Machine Learning, Data Science, Python, Tableau"
 ---
 Link to GitHub Repository:
 
-<https://github.com/davidsuffolk/NYC-Taxi-Cab-Analysis-in-Python-and-Tableau>
+[Click Here](https://github.com/davidsuffolk/NYC-Taxi-Cab-Analysis-in-Python-and-Tableau)
