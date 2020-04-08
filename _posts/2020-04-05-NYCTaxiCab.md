@@ -1,5 +1,5 @@
 ---
-#layout: archive
+layout: single
 title: "NYC Taxi Cab Data Analysis and Machine Learning"
 date: 2020-04-05
 tags: [machine learning, data science, python, tableau]
