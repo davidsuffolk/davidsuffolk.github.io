@@ -1,6 +1,8 @@
 ---
+layout: single
 permalink: /python/
 title: "Python Projects by Tags"
+author_profile: true
 header:
   image: "/images/python-logo.png"
 ---
