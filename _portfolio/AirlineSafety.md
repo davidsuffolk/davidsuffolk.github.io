@@ -2,7 +2,6 @@
 title: "Airline Safety Data Visualization in Tableau"
 excerpt: "Data Visualization, Tableau, Data Science, Python"
 header:
-  image: /images/airline.jpeg
   teaser: /images/airline.jpeg
 sidebar:
   - title: "Airline Safety Data Visualization"
