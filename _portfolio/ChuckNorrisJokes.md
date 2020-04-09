@@ -1,6 +1,6 @@
 ---
 title: "Chuck Norris Joke Generator in Python"
-tags: [Programming, Python, API
+tags: [Programming, Python, API]
 excerpt: "Programming, Python, API"
 header:
   teaser: /images/programming.jpg
