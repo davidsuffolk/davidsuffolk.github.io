@@ -157,7 +157,6 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
-teaser: /images/programming.png
 # Reading Files
 include:
   - .htaccess

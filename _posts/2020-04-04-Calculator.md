@@ -5,8 +5,6 @@ date: 2020-04-04
 tags: [programming, python]
 author_profile: true
 excerpt: "Programming, Python"
-header:
-  teaser: /images/calculator.jpg
 ---
 ![Calculator](/images/calculator.jpg "Calculator in Python")
 
