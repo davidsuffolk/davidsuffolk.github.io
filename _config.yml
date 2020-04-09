@@ -157,8 +157,6 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
-# Table of Contents
-toc: true
 
 # Reading Files
 include:
@@ -306,13 +304,3 @@ defaults:
       type: pages
     values:
       layout: single
-
-gallery:
-  - url: "https://davidsuffolk.github.io/NYCTaxiCab/"
-    image_path: "/images/yellow_taxi_cab.jpg"
-    #alt: "placeholder image 1"
-    title: "NYC Taxi Cab Data Analysis"
-  - url: "https://davidsuffolk.github.io/NYCTaxiCab/"
-    image_path: "/images/yellow_taxi_cab.jpg"
-    #alt: "placeholder image 1"
-    title: "NYC Taxi Cab Data Analysis"
