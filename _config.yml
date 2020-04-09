@@ -159,8 +159,6 @@ footer:
 
 # Table of Contents
 toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
 
 # Reading Files
 include:
