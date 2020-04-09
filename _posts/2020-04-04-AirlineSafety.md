@@ -2,7 +2,7 @@
 layout: single
 title: "Airline Safety Data Visualization in Tableau"
 date: 2020-04-04
-tags: [data visualization, data science, python, tableau]
+tags: [Data Visualization, Data Science, Python, Tableau]
 author_profile: true
 excerpt: "Data Visualization, Tableau, Data Science, Python"
 ---

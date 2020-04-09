@@ -2,7 +2,7 @@
 layout: single
 title: "Premier League Market Value Project"
 date: 2020-04-04
-tags: [data science, python]
+tags: [Data Science, Python]
 author_profile: true
 excerpt: "Data Science, Python"
 ---

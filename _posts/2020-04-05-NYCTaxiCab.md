@@ -2,7 +2,7 @@
 layout: single
 title: "NYC Taxi Cab Data Analysis and Machine Learning"
 date: 2020-04-05
-tags: [machine learning, data science, python, tableau]
+tags: [Machine Learning, Data Science, Python, Tableau]
 author_profile: true
 excerpt: "Machine Learning, Data Science, Python, Tableau"
 ---

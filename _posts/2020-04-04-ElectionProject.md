@@ -2,7 +2,7 @@
 layout: single
 title: "Data Science Impact on Election Strategies Research Project"
 date: 2020-04-04
-tags: [data science, research]
+tags: [Data Science, Research]
 author_profile: true
 excerpt: "Data Science, Research"
 ---

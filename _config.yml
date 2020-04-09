@@ -157,6 +157,11 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+# Table of Contents
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+
 # Reading Files
 include:
   - .htaccess

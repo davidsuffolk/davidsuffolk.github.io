@@ -2,7 +2,7 @@
 layout: single
 title: "Word Counter in Python"
 date: 2020-04-04
-tags: [programming, python]
+tags: [Programming, Python]
 author_profile: true
 excerpt: "Programming, Python"
 ---

@@ -2,7 +2,7 @@
 layout: single
 title: "Harvard Art Museum Data Preparation in Python"
 date: 2020-04-04
-tags: [data science, python, api]
+tags: [Data Science, Python, API]
 author_profile: true
 excerpt: "Data Science, Python, API"
 ---

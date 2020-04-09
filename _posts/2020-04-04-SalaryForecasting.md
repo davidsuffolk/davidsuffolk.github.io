@@ -2,7 +2,7 @@
 layout: single
 title: "Salary Forecasting with Predictive Analytics"
 date: 2020-04-04
-tags: [machine learning, data science, python, tableau, r, predictive analytics]
+tags: [Machine Learning, Data Science, Python, Tableau, R, Predictive Analytics]
 author_profile: true
 excerpt: "Machine Learning, Data Science, Python, Tableau, R, Predictive Analytics"
 ---

@@ -2,7 +2,7 @@
 layout: single
 title: "Chuck Norris Joke Generator in Python"
 date: 2020-04-04
-tags: [programming, python, api]
+tags: [Programming, Python, API
 author_profile: true
 excerpt: "Programming, Python, API"
 ---

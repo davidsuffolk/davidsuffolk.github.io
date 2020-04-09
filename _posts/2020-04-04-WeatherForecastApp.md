@@ -2,7 +2,7 @@
 layout: single
 title: "Weather API Application in Python"
 date: 2020-04-04
-tags: [programming, api, python]
+tags: [Programming, API, Python]
 author_profile: true
 excerpt: "Python, Programming, API"
 ---

@@ -2,7 +2,7 @@
 layout: single
 title: "Newspaper Customer Churn Data Analysis in R"
 date: 2020-04-04
-tags: [data science, r]
+tags: [Data Science, R]
 author_profile: true
 excerpt: "Data Science, R"
 ---
