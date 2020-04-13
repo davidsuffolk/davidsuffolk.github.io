@@ -10,8 +10,8 @@ sidebar:
     text: "Harvard Art Museum Data Preparation in Python"
 tags: [Data Science, Python, API]
 ---
+A project that uses Python to pull data through API to generate a dataset for further projects.
+
 Link to GitHub Repository:
 
 [Click Here](https://github.com/davidsuffolk/Harvard-Art-Museum-Data-Preparation)
-
-I can add more text here.

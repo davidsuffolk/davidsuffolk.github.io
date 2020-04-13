@@ -10,7 +10,7 @@ sidebar:
     text: "Input Sorter in Python"
 tags: [Programming, Python]
 ---
-Link to GitHub Repository:
+A Python program that sorts through various inputs submitted by the user.
 
 Link to GitHub Repository:
 

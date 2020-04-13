@@ -10,8 +10,8 @@ sidebar:
     text: "Statistical analysis of Google Play store reviews in Python"
 tags: [Data Science, Python]
 ---
+A project that uses Python to explore various statistic factors of a dataset regarding Google Play Store app reviews.
+
 Link to GitHub Repository:
 
 [Click Here](https://github.com/davidsuffolk/Google-Play-Store-Reviews-Statistical-Analysis)
-
-I can add more text here.

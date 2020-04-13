@@ -133,7 +133,7 @@ author:
       # url: "https://instagram.com/"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube-square"
-      url: "https://www.youtube.com/channel/UCORTq3UPMHVjs2Bb2MzM9bg?view_as=subscriber"
+      #url: "https://www.youtube.com/channel/UCORTq3UPMHVjs2Bb2MzM9bg?view_as=subscriber"
 
 # Site Footer
 footer:

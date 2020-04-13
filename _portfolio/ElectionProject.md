@@ -10,8 +10,8 @@ sidebar:
     text: "Research Project"
 tags: [Data Science, Research]
 ---
+A research project that explores how data science has impacted election strategies.
+
 Link to GitHub Repository:
 
 [Click Here](https://github.com/davidsuffolk/Data-Science-Impact-on-Election-Strategies-Research-Project)
-
-I can add more text here.

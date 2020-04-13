@@ -10,8 +10,8 @@ sidebar:
     text: "Newspaper Customer Churn Data Analysis in R"
 tags: [Data Science, R]
 ---
+A project that uses R to explore various statistical factors of customer churn for a newspaper.
+
 Link to GitHub Repository:
 
 [Click Here](https://github.com/davidsuffolk/Newspaper-Customer-Churn-Project)
-
-I can add more text here.

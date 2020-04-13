@@ -10,8 +10,8 @@ sidebar:
     text: "Weather API Application in Python"
 tags: [Programming, API, Python]
 ---
+A Python programming project that uses an API call to retrieve weather data based on user request.
+
 Link to GitHub Repository:
 
 [Click Here](https://github.com/davidsuffolk/Weather-Forecast-APP-in-Python)
-
-I can add more text here.

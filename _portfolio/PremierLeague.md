@@ -10,8 +10,8 @@ sidebar:
     text: "Premier League Market Value Project"
 tags: [Data Science, Python]
 ---
+A project that uses Python to explore various factors of a dataset regarding Premier League soccer players.
+
 Link to GitHub Repository:
 
 [Click Here](https://github.com/davidsuffolk/Premier-League-Market-Value-Project)
-
-I can add more text here.

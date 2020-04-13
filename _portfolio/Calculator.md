@@ -10,8 +10,8 @@ sidebar:
     image_alt: "Calculator"
     text: "Calculator created in Python"
 ---
+A program built in Python that allows users to make basic calculations.
+
 Link to GitHub Repository:
 
 [Click Here](https://github.com/davidsuffolk/Python-Calculator)
-
-Add more text

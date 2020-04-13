@@ -10,8 +10,8 @@ sidebar:
     text: "Word Counter in Python"
 tags: [Programming, Python]
 ---
+A program in Python that counts the words of a submitted text file.
+
 Link to GitHub Repository:
 
 [Click Here](https://github.com/davidsuffolk/Python-Word-Counter)
-
-I can add more text here.
