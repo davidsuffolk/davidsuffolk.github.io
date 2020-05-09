@@ -77,4 +77,8 @@ open_operation()
 
 Here is an example of the program running
 
-<img src="images/chuck_norris_output.png">
+<img src="images/chuck_norris_output.png"/>
+
+Here is a second attempt
+
+![output](images/chuck_norris_output.png)
