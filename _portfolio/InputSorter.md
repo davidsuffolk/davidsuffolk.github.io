@@ -39,7 +39,7 @@ If temperatures list has 5 values, the loop will end.
 
 ```python
 def addTemperature(d):
-    temperatures.append(d)
+    temperatures.append(int(d))
     for t in temperatures:
         if len(temperatures) == 5:
             break
@@ -80,9 +80,10 @@ temperatures.sort()
 OUTPUT TEXT
 ```python
 print("Thank you! Here are your results.")
-print("Largest Temperature: " + temperatures[-1]) #calls last index in sorted list
-print("Smallest Temperature: " + temperatures[0]) #calls first index in sorted list
+print("Largest Temperature: " + str(temperatures[-1])) #calls last index in sorted list
+print("Smallest Temperature: " + str(temperatures[0])) #calls first index in sorted list
 print("Total Temperatures Entered: " + counter) #uses the counter variable to output number of values
+print(temperatures)
 ```
 
 Here is an example of the program running from the user perspective:
