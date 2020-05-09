@@ -16,5 +16,14 @@ Link to GitHub Repository:
 
 [Click Here](https://github.com/davidsuffolk/Airline-Safety-Data-Visualization)
 
+A video presentation focused on communicating to customers the safety of using airline travel.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B_ra8erm-Qk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+A dashboard focused on communicating important data to internal members of the company.
+
+![image-center](/images/airline_dashbaord.png){: .align-center}
+
+An infographic focused on communicating to customers the safety of using airline travel.
+
+![image-center](/images/Airline_infographic.jpeg){: .align-center}
