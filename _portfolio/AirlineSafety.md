@@ -17,7 +17,7 @@ Link to GitHub Repository:
 [Click Here](https://github.com/davidsuffolk/Airline-Safety-Data-Visualization)
 
 
-<video width="1280" height="720" controls  >
+<video width="640" height="360" controls>
 <source src="images/DSC640_FinalPresentationVideo_SuffolkDavid.mp4" type="video/mp4">
 
 </video >
