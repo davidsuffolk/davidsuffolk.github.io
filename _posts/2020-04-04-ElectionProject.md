@@ -11,3 +11,7 @@ excerpt: "Data Science, Research"
 Link to GitHub Repository:
 
 [Click Here](https://github.com/davidsuffolk/Data-Science-Impact-on-Election-Strategies-Research-Project)
+
+Poster for Research Project
+
+![image-center](/images/Project_Poster.jpeg){: .align-center}
