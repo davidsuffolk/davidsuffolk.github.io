@@ -15,3 +15,9 @@ A project that aims to use data visualization to calm customer concerns around f
 Link to GitHub Repository:
 
 [Click Here](https://github.com/davidsuffolk/Airline-Safety-Data-Visualization)
+
+
+<video width="1280" height="720" controls  >
+<source src="images/DSC640_FinalPresentationVideo_SuffolkDavid.mp4" type="video/mp4">
+
+</video >
