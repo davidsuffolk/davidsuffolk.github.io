@@ -15,3 +15,33 @@ This project uses R to explore and prepare data for machine learning algorithms.
 Link to GitHub Repository:
 
 [Click Here](https://github.com/davidsuffolk/Alaskan-Crow-Data-Exploration-and-Machine-Learning-in-R)
+
+Import libraries
+
+```r
+library(ggplot2)
+library(ggmap)
+library(maps)
+library(mapdata)
+library(usmap)
+library(rpart)
+library(rpart.plot)
+library(caTools)
+library(ROCR)
+```
+
+One-Hot Encoding of location data
+
+```r
+for(unique_value in unique(de$LOC)){
+
+de[paste("LOC", unique_value, sep = ".")] <- ifelse(de$LOC == unique_value, 1, 0)
+}
+```
+
+Filter out N/A values and organize columnns
+
+```r
+de <- de[,c(7,8,9,10,11,12,14,16,18,23,24,25,26,27,28)]
+de<-de[complete.cases(de),]
+```
