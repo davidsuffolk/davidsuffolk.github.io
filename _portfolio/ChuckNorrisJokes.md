@@ -75,4 +75,6 @@ Call the open function to begin program
 open_operation()
 ```
 
+Here is an example of the program running from the user perspective:
+
 ![image-center](/images/chuck_norris_output.jpg){: .align-center}
