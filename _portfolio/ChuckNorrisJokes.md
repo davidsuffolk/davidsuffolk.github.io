@@ -74,3 +74,5 @@ Call the open function to begin program
 ```python
 open_operation()
 ```
+
+![image-center](/images/chuck_norris_output.jpg){: .align-center}
