@@ -77,10 +77,10 @@ open_operation()
 
 Here is an example of the program running
 
-<img src="../images/chuck_norris_output.png" height="100"/>
+<img src="./images/chuck_norris_output.png" height="100"/>
 <img src="images/chuck_norris_output.png" height="100"/>
 <img src="~/images/chuck_norris_output.png" height="100"/>
 
-<img src="../images/chuck_norris_output.jpg" height="100"/>
+<img src="./images/chuck_norris_output.jpg" height="100"/>
 <img src="images/chuck_norris_output.jpg" height="100"/>
 <img src="~/images/chuck_norris_output.jpg" height="100"/>
