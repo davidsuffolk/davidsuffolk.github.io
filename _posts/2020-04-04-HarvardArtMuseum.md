@@ -27,7 +27,7 @@ import numpy as np
 API Request to pull 99 entries of any art description containing the word "dog"
 
 ```python
-API_KEY = '945c52a0-0620-11ea-bd11-270db08d9704'
+API_KEY = '###'
 http = urllib3.PoolManager()
 
 r = http.request('GET', 'https://api.harvardartmuseums.org/object',

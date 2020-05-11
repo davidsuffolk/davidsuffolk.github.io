@@ -40,7 +40,7 @@ zip_url = "http://api.openweathermap.org/data/2.5/forecast?zip="
 API key required for API calls
 
 ```python
-apikey = "appid=6cec5576479765e4ad5ebb2b4851a89d"
+apikey = "appid=###"
 ```
 
 Convert all weather data to imperial to display temperature in °F and wind speed in MPH
