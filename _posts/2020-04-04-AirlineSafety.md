@@ -8,6 +8,8 @@ excerpt: "Data Visualization, Tableau, Data Science, Python"
 ---
 ![Airplane Landing](/images/airline.jpeg "Airline Safety Data Visualization in Tableau")
 
+A project that aims to use data visualization to calm customer concerns around flight safety.
+
 Link to GitHub Repository:
 
 [Click Here](https://github.com/davidsuffolk/Airline-Safety-Data-Visualization)

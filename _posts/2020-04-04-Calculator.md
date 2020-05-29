@@ -8,6 +8,8 @@ excerpt: "Programming, Python"
 ---
 ![Calculator](/images/calculator.jpg "Calculator in Python")
 
+A program built in Python that allows users to make basic calculations.
+
 Link to GitHub Repository:
 
 [Click Here](https://github.com/davidsuffolk/Python-Calculator)

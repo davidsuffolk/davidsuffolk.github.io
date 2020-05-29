@@ -8,6 +8,8 @@ excerpt: "Data Science, Research"
 ---
 ![Election](/images/election.jpg "Data Science Impact on Election Strategies Research Project")
 
+A research project that explores how data science has impacted election strategies.
+
 Link to GitHub Repository:
 
 [Click Here](https://github.com/davidsuffolk/Data-Science-Impact-on-Election-Strategies-Research-Project)

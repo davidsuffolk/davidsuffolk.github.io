@@ -8,6 +8,8 @@ excerpt: "Programming, Python"
 ---
 ![Programming](/images/programming.jpg "Input Sorter in Python")
 
+A Python program that sorts through various inputs submitted by the user.
+
 Link to GitHub Repository:
 
 [Click Here](https://github.com/davidsuffolk/Python-Input-Sorter)

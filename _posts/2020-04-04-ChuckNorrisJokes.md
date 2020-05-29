@@ -8,6 +8,8 @@ excerpt: "Programming, Python, API"
 ---
 ![Programming](/images/programming.jpg "Chuck Norris Joke Generator in Python")
 
+A Python program that uses an API connection to generate random Chuck Norris jokes.
+
 Link to GitHub Repository:
 
 [Click Here](https://github.com/davidsuffolk/Chuck-Norris-Joke-API-in-Python)

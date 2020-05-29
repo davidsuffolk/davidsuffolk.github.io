@@ -6,9 +6,9 @@ tags: [Data Science, Python]
 author_profile: true
 excerpt: "Data Science, Python"
 ---
-A project that uses Python to explore various factors of a dataset regarding Premier League soccer players.
-
 ![Premier League Logos](/images/premier.jpg "Premier League Market Value Project")
+
+A project that uses Python to explore various factors of a dataset regarding Premier League soccer players.
 
 Link to GitHub Repository:
 
