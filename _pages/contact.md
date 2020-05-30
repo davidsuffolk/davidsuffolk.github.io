@@ -11,4 +11,4 @@ Please feel free to contact me at the following.
 
 Email: david.suffolk@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/davidsuffolk/
+LinkedIn: [https://www.linkedin.com/in/davidsuffolk/](https://www.linkedin.com/in/davidsuffolk/)
