@@ -7,7 +7,7 @@ main:
   - title: "Projects by Tags"
     url: /project_tags/
 - title: "Contact"
-  url: /contact/
+    url: /contact/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
