@@ -6,7 +6,7 @@ main:
     url: /portfolio/
   - title: "Projects by Tags"
     url: /project_tags/
-- title: "Contact"
+  - title: "Contact"
     url: /contact/
   # - title: "Sample Posts"
   #   url: /year-archive/
