@@ -12,6 +12,8 @@ tags: [Data Science, Python]
 ---
 A project that uses Python to explore various statistics of a dataset regarding Google Play Store app reviews.
 
+The code below displays highlights from the project. For more details, please view the GitHub Repository.
+
 Link to GitHub Repository:
 
 [Click Here](https://github.com/davidsuffolk/Google-Play-Store-Reviews-Statistical-Analysis)

@@ -12,6 +12,8 @@ tags: [Data Science, Python, API]
 ---
 A project that uses Python to pull data through API to generate a dataset for further projects.
 
+The code below displays highlights from the project. For more details, please view the GitHub Repository.
+
 Link to GitHub Repository:
 
 [Click Here](https://github.com/davidsuffolk/Harvard-Art-Museum-Data-Preparation)

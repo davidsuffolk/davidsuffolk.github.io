@@ -12,6 +12,8 @@ tags: [Machine Learning, Data Science, Python, API]
 ---
 A project that uses machine learning to perform sentiment analysis on New York Times Finance headlines.
 
+The code below displays highlights from the project. For more details, please view the GitHub Repository.
+
 Link to GitHub Repository:
 
 [Click Here](https://github.com/davidsuffolk/Sentiment-Analysis-on-NYT-Finance-Headlines)
